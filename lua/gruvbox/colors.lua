@@ -6,7 +6,7 @@ return {
   dark0 = hsl("#282828"), 
   dark0_soft = hsl("#32302f"),
   dark1 = hsl("#3c3836"),
-  dark2 = hsl("#282828"),
+  dark2 = hsl("#3c3836"),
   dark3 = hsl("#665c54"),
   dark4 = hsl("#7c6f64"),
   light0_hard = hsl("#f9f5d7"),
